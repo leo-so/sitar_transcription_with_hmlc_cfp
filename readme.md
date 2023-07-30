@@ -1,7 +1,5 @@
 # Automatic Music Transcription for Sitar Music Analysis
 
-<img src="transcription_v2.png" alt="drawing" width="50%" style="text-align:center"/>
-
 Automatic music transcription (AMT) of non-Western music is a challenging task. How to utilize the imperfect results for computational musicology research remains open questions.
 
 In this work, we report a novel AMT method, HMLC-CFP, and a set of computational music analysis strategies for sitar recordings. The proposed AMT method is based on harmonic multi-layered cepstrum (HMLC) and combined frequency-periodicity (CFP) signal representations. We also provide the tonal, temporal and structural analysis of the studied recording fully based on the AMT result. 
