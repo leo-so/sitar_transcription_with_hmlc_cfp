@@ -1,6 +1,6 @@
 # Automatic Music Transcription for Sitar Music Analysis
 
-<img src="transcription_v2.png" alt="drawing" width="50%" class="center"/>
+<img src="transcription_v2.png" alt="drawing" width="50%" style="text-align:center"/>
 
 Automatic music transcription (AMT) of non-Western music is a challenging task. How to utilize the imperfect results for computational musicology research remains open questions.
 
